@@ -22,3 +22,4 @@ if secim == "6" :print("ÇARPIM TABLOSU")
 if secim == "7" :print("ÇIKIŞ")
 if secim in ["1","2","3","4","5","6","7"]: pass
 else : print("Yanlış Seçim Yaptınız!")
+
