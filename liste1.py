@@ -1,6 +1,6 @@
 import random
 
-corba = ["Trahana", "Yayla", "Ezo Gelin"]
+corba = ["Tarhana", "Yayla", "Ezo Gelin"]
 anayemek = ["Karnı yarık", "Kuru fasulye", "Mantı"]
 icecek = ["Ayran", "Kola", "Gazoz"]
 
