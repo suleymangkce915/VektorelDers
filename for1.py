@@ -17,3 +17,7 @@ meyveler = ["muz","dut","nar"]
 
 for x in meyveler:
     print(x*1)
+
+
+
+    
