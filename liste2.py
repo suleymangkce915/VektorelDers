@@ -8,3 +8,5 @@ print(corba)
 corba.pop(1)
 
 print(corba)
+corba.insert(1, "Yayla")
+print(corba)
